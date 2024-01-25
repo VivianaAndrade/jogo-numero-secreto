@@ -7,4 +7,4 @@
   caso ele acertasse o valor do numero secreto, seria exibido uma mensagem parabenizando, e informaria também quantas tentativas foram feitas para encontrar o número secreto. 
 </p>
 
-<h3>ORACLE NEXT EDUCATION - ORACLE+ALURA</h3>
+<h5>ORACLE NEXT EDUCATION - ORACLE+ALURA</h5>
