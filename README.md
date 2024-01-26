@@ -7,4 +7,4 @@
   caso ele acertasse o valor do numero secreto, seria exibido uma mensagem parabenizando, e informaria também quantas tentativas foram feitas para encontrar o número secreto. 
 </p>
 
-<p> PROGRAMA ONE - PARCERIA ORACLE + ALURA </p>
+<p>CURSO FEITO ATRAVÉS DA PLATAFORMA DA ALURA EM PARCERIA COM A ORACLE</p>
